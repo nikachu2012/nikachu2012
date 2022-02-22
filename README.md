@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, My name is Nikachu.
+#### Hi there 👋
+
+![nikachu2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikachu2012&show_icons=true&theme=dark)
+
 
 <!--
 **nikachu2012/nikachu2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
