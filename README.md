@@ -1,9 +1,19 @@
 ### Hello, My name is Nikachu.
 #### Hi there 👋
 
-⭐[Portfolio](https://portfolio.nikachu.net/)
+**🌐Social Links**  
+⭐[Portfolio](https://portfolio.nikachu.net/)  
+⭐️[Blog](https://blog.nikachu.net)  
+⭐️[Twitter](https://twitter.com/nikachu2012)  
+⭐️[Instagram](https://instagram.com/nikachu2012/)  
+⭐️[GitHub](https://github.com/nikachu2012)  
+⭐️[GitLab](https://gitlab.com/nikachu2012)  
+⭐️[Qiita](https://qiita.com/nikachu2012)  
+⭐️[Zenn](https://zenn.dev/nikachu2012)  
 
-![nikachu2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikachu2012&show_icons=true&theme=dark)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikachu2012&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikachu2012&theme=dracula&utcOffset=9)
+<!-- ![nikachu2012's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikachu2012&show_icons=true&theme=dark)  -->
 <img src="profile-3d-contrib/profile-night-rainbow.svg" style="width:600px;">
 
 <!--
