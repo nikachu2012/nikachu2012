@@ -1,4 +1,5 @@
-<div style="text-align: center;">
+<div align="center">
+<samp>
 
 ![nikachu2012 / So Ogino](image/header.png)
 
@@ -19,4 +20,5 @@
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" style="width:600px;">
 
+</samp>
 </div>
