@@ -3,7 +3,7 @@
 
 ![nikachu2012 / So Ogino](image/header.png)
 
-[![Static Badge](https://img.shields.io/badge/portfolio-%23ffffff.svg?style=for-the-badge)](https://portfolio.nikachu.net) [![Static Badge](https://img.shields.io/badge/blog-ffffff.svg?style=for-the-badge)](https://blog.nikachu.net)
+[![Static Badge](https://img.shields.io/badge/portfolio-%23ffffff.svg?style=for-the-badge)](https://portfolio.nikachu.net) [![Static Badge](https://img.shields.io/badge/blog-ffffff.svg?style=for-the-badge)](https://note.nikachu.net)
 
 ### **🌐Social Links**  
 [![Static Badge](https://img.shields.io/badge/Follow%20%40nikachu2012-%23000000.svg?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/nikachu2012) [![Static Badge](https://img.shields.io/badge/Follow%20%40nikachu2012-%23249EF0.svg?style=for-the-badge&logo=instagram&logoColor=ffffff&color=%23E4405F)](https://instagram.com/nikachu2012)
